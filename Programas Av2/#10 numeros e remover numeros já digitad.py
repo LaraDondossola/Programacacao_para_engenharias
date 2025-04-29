@@ -1,7 +1,7 @@
 #10 numeros e remover numeros já digitados 
 
 lista = []
-afsmgçsmh
+
 for i in range (10):
     num = int(input("Digite um número: "))
 
